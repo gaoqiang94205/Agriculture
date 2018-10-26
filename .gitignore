@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.gitignore
+.idea/
+agricultureiot.iml
+#machine/
+#pom.xml
+#spark-warehouse/
+#src/
+#webpredict/
